@@ -1,5 +1,5 @@
 # K-Means Clustering :
-## [[ Income Dataset ]](https://github.com/GirijaShankarPanda/K-MeanClustering_IncomeDataset/files/12252122/Income.csv)
+## [[ Income Dataset ]](https://github.com/GirijaShankarPanda/K-MeanClustering_IncomeDataset/blob/main/Income.csv)
 *This is a simple project on **K-Means Clustering**, which is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning.*
 
 > "It is an iterative algorithm that divides the unlabeled dataset into k different clusters in such a way that each dataset belongs only one group that has similar properties."

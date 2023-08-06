@@ -7,7 +7,7 @@
 ### *K-Means clustering Algorithm:*
 *The k-means clustering algorithm mainly performs two tasks:*
 - Determines the best value for K center points or centroids by an iterative process.
-- Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.*
+- Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
 
 *In this project a dataset, that comprises of Age and Income of some random people is taken and the unlabeled dataset are grouped into different clusters by using the algorithm of K-Means Clustering. Here, the value of K=3, where K defines the number of pre-defined clusters that need to be created in the process.* 
 > ### Goal: 
